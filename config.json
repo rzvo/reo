@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.0",
   "download_url": "https://github.com/rzvo/reo/releases/download/v1.0.0/reo_v1.0.0.zip",
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_message": "reo is currently under maintenance. Please try again later."
 }
